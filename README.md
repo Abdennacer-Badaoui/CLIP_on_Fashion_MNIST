@@ -11,3 +11,6 @@ The goal of this project is to demonstrate how CLIP embeddings can be utilized f
 - NumPy 
 - Matplotlib
 - Fashion MNIST dataset
+
+
+![téléchargement](https://github.com/Abdennacer-Badaoui/CLIP_on_Fashion_MNIST/assets/106801897/a30199f3-cc0f-4479-a43b-ffe73dc57cf7)
