@@ -5,9 +5,9 @@ This project focuses on leveraging OpenAI's CLIP (Contrastive Language-Image Pre
 The goal of this project is to demonstrate how CLIP embeddings can be utilized for image classification without fine-tuning the model on the Fashion MNIST dataset. This approach showcases the generalizability and transferability of CLIP's embeddings for classification tasks.
 
 # Requirements
-Python 3.x //
-TensorFlow or PyTorch (depending on the implementation) //
-OpenAI CLIP library //
-NumPy //
-Matplotlib (for visualization) //
-Fashion MNIST dataset (automatically downloaded if using certain frameworks) //
+- Python 3.x
+- TensorFlow or PyTorch
+- OpenAI CLIP library
+- NumPy 
+- Matplotlib
+- Fashion MNIST dataset
